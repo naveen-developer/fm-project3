@@ -20,14 +20,14 @@ body {
     width: 320px;
     height: 499px;
     padding: 16px;
-    border-radius: 10px;
+    border-radius: 15px;
     text-align: center;
     margin-bottom: 10px;
 }
 
 .card-container img {
     width: 100%;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .card-container .card-body {
@@ -43,7 +43,7 @@ body {
 .card-container .card-body p {
     color: #68778D;
     font-size: 15px;
-    letter-spacing: 0.2;
+    letter-spacing: 0.2px;
 }
 
 .sr-only {
